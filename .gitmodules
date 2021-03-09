@@ -1,0 +1,6 @@
+[submodule "lib/ESP32-A2DP"]
+	path = lib/ESP32-A2DP
+	url = https://github.com/pschatzmann/ESP32-A2DP.git
+[submodule "lib/ESP32-audioI2S"]
+	path = lib/ESP32-audioI2S
+	url = https://github.com/schreibfaul1/ESP32-audioI2S.git
